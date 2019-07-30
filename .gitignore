@@ -1,3 +1,6 @@
+# Fake data generated whenever the server is started
+src/api/db.json
+
 # Logs
 logs
 *.log
